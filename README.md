@@ -24,6 +24,8 @@ Typecho is released under the GNU General Public License 2.0.
 ## Screenshots
 
 ![Typecho](https://typecho.org/usr/themes/bluecode/img/screenshot/st1.png)
+[Repository to diagram by gitdiagram](https://gitdiagram.com/typecho/typecho)
+
 
 ## Contributing
 
